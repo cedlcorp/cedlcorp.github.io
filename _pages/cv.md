@@ -2,12 +2,12 @@
 layout: archive
 title: "CV"
 permalink: /cv/
-author_profile: true
+author_profile: false
 redirect_from:
   - /resume
 ---
 
-#{% include base_path %}
+{% include base_path %}
 
 
 ![hanjunpark_cv](/images/hanjunpark_20240712cv_final-1.png)
