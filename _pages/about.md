@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my webiste.
+Welcome to my website. Based on 🇰🇷
 
 <!--
 ![cv-1 image](/images/cv-1.png)
