@@ -14,7 +14,7 @@ redirect_from:
 </div>
 
 <div style="width: 100%; max-width: 100vw; height: auto;">
-  <iframe id="myIframe" src="https://example.com" frameborder="0" style="width: 100%; height: 100%;" scrolling="no"></iframe>
+  <iframe id="myIframe" src="https://drive.google.com/file/d/1OLf0gRn0Xkqmmx60YfKaaBy0AZDL8sCE/preview" frameborder="0" style="width: 100%; height: 100%;" scrolling="no"></iframe>
 </div>
 
 <script>
